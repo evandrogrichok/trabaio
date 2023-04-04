@@ -1,0 +1,18 @@
+body{
+    background: #daff76;
+}
+.input-padrao{
+    display: block;
+    border-radius: 20px;
+}
+
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+margin: 0 0 10px;
+}
+
+#radio{
+    display: block;
+}
